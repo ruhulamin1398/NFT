@@ -1,4 +1,4 @@
-# MyNFT Smart Contract
+# MyNFT 
 
 This repository contains the implementation of an ERC721 NFT (Non-Fungible Token) smart contract. The smart contract leverages OpenZeppelin libraries to provide standard NFT functionalities along with URI storage and ownership control.
 
